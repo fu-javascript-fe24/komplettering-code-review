@@ -8,6 +8,8 @@
 
 ## Uppgift
 
+En studerande har löst uppgiften som ni hittar i mappen [lewis-carrol-word-puzzle](./lewis-carrol-word-puzzle). Lösningen innehåller dock en massa buggar, och spelet fungerar därför inte som det skall. Här kommer ni in i bilden.
+
 1. En person klonar ner repot och öppnar det i VS Code.
 2. Starta en inspelning av samtalet. Jag behöver kunna säkerställa att alla aktivt deltar i uppgiften. Ni behöver inte använda era kameror.
 3. Diskutera koden, se om ni på rak arm kan upptäcka några fel, och använd era debugging-egenskaper med console.log för att leta fel och testa olika lösningar.
